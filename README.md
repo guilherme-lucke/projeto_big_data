@@ -27,8 +27,8 @@ Este projeto tem como objetivo explorar as capacidades de arquiteturas de bancos
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu_usuario/car-databricks-aws.git
-cd car-databricks-aws
+git clone https://github.com/guilherme-lucke/projeto_big_data.git
+cd projeto_big_data
 ```
 ### 2. Configurar Credenciais AWS
 No Databricks, você pode configurar as credenciais AWS na seção de configurações ou usar variáveis de ambiente.
