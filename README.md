@@ -57,9 +57,9 @@ Abra o notebook notebooks/CadastroAmbientalRural.ipynb no Databricks e siga as i
 - Consultas diversas serão realizadas no DataFrame, mostrando insights valiosos sobre os dados do CAR.
 
 ## Consultas Realizadas
-**Consulta 1:** Soma da área para MS e MT, ordenada em ordem decrescente.
-**Consulta 2:** Filtro para propriedades na região sudeste.
-**Consulta 3:** Contagem de propriedades cadastradas por ano, ordenadas cronologicamente.
-**Consulta 4:** Percentual médio de área remanescente de vegetação nativa.
-**Consulta 5:** Contagem de propriedades rurais por estado.
-**Consulta 6:** Média de área por propriedade e contagem de propriedades acima da média por estado.
+- **Consulta 1:** Soma da área para MS e MT, ordenada em ordem decrescente.
+- **Consulta 2:** Filtro para propriedades na região sudeste.
+- **Consulta 3:** Contagem de propriedades cadastradas por ano, ordenadas cronologicamente.
+- **Consulta 4:** Percentual médio de área remanescente de vegetação nativa.
+- **Consulta 5:** Contagem de propriedades rurais por estado.
+- **Consulta 6:** Média de área por propriedade e contagem de propriedades acima da média por estado.
